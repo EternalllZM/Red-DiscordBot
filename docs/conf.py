@@ -140,6 +140,7 @@ html_context = {
     "github_user": "Cog-Creators",
     "github_repo": "Red-DiscordBot",
     "github_version": "V3/develop",
+    "doc_path": "docs",
     "version_slug": os.environ.get("READTHEDOCS_VERSION", ""),
     "rtd_language": os.environ.get("READTHEDOCS_LANGUAGE", ""),
     "READTHEDOCS": os.environ.get("READTHEDOCS", "") == "True",
